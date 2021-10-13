@@ -1,0 +1,2 @@
+# NBRB
+currency exchange rate
